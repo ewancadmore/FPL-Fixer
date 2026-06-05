@@ -1,2 +1,2 @@
 # FPL-Fixer
-A Level Computer Science NEA Project
+A Level Computer Science NEA project. A data-driven tool for Fantasy Premier League built in C#. Used a Python script to scrape real Premier League statistics from FBref via the SoccerData library, processes them into player objects, and applies a user-configurable weighted scoring model to rank players. Implements merge sort and bubble sort for ranking, a hash table for player search, a custom linked list for shortlist management, and a dynamic programming approach for automatic squad optimisation within budget and positional constraints. Console-based application handling 400+ real players.
